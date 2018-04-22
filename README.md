@@ -2,7 +2,7 @@
 
 see the deployed version here https://boiling-tor-57598.herokuapp.com/
 
-![site](/images/screen1.png)
+![site](/images/screen1.PNG)
 
 This web app is made in React.js and using express and node.js for the backend. It also uses MongoDB for the database.
 In this app you can search for an article in the New York Times database using an ajax request. It will display the top 5 
